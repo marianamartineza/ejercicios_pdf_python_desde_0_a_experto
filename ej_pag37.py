@@ -1,7 +1,7 @@
 #ej 2
 class Robot():
     x:int
-    y: int
+    y:int
 
     def __init__(self):
         self.x=0
