@@ -62,7 +62,6 @@ class Cuadrado(Poligono):
             return p
         else:
             print("El cuadrado no tiene todos los lados iguales")
-       
 
     def mostrar(self):
         Poligono.mostrar(self)
